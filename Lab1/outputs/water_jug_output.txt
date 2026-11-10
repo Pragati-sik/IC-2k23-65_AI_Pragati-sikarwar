@@ -1,0 +1,8 @@
+ ------Water Jug Problem ----
+Enter capacity of Jug 1 (liters): Enter capacity of Jug 2 (liters): Enter the goal amount (liters): 
+Jug 1 = 3L, Jug 2 = 4L, Goal = 2L
+Step 0: Jug 1 = 0, Jug 2 = 0
+Step 1: Jug 1 = 3, Jug 2 = 0
+Step 2: Jug 1 = 0, Jug 2 = 3
+Step 3: Jug 1 = 3, Jug 2 = 3
+Step 4: Jug 1 = 2, Jug 2 = 4
